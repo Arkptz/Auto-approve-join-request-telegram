@@ -1,0 +1,2 @@
+BOT_TOKEN = '5917094598:AAEfim-b07poYa4SFzEc2P56QtBudD4JnCw'
+list_channels = [-1001784228190,]
